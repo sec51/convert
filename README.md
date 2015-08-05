@@ -1,7 +1,7 @@
 ### Build status
 
 [![Build Status](https://travis-ci.org/sec51/convert.svg?branch=master)](https://travis-ci.org/sec51/convert)
-[godoc](https://godoc.org/github.com/sec51/convert/)
+[![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](https://godoc.org/github.com/sec51/convert/)
 
 ### Golang conversion library
 
